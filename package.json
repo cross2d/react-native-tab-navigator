@@ -1,0 +1,87 @@
+{
+  "name": "@cross2d/react-native-tab-navigator",
+  "author": "James Ide",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  },
+  "description": "A tab bar that switches between scenes, written in JS for cross-platform support",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "react-native",
+    "tab-bar",
+    "navigator",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "TabNavigator.js",
+  "maintainers": [
+    "ccheever <ccheever@gmail.com>",
+    "ide <ide+npm@jameside.com>",
+    "colin3dmax <colin3dmax@163.com>"
+  ],
+  "optionalDependencies": {},
+  "scripts": {
+    "release": "npm publish --access public"
+  },
+  "version": "1.0.0",
+  "react-native": {
+    "zlib": "browserify-zlib",
+    "console": "console-browserify",
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "dns": "dns.js",
+    "net": "react-native-tcp",
+    "domain": "domain-browser",
+    "http": "react-native-http",
+    "https": "https-browserify",
+    "os": "react-native-os",
+    "path": "path-browserify",
+    "querystring": "querystring-es3",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "dgram": "react-native-udp",
+    "stream": "stream-browserify",
+    "timers": "timers-browserify",
+    "tty": "tty-browserify",
+    "vm": "vm-browserify"
+  },
+  "browser": {
+    "zlib": "browserify-zlib",
+    "console": "console-browserify",
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "dns": "dns.js",
+    "net": "react-native-tcp",
+    "domain": "domain-browser",
+    "http": "react-native-http",
+    "https": "https-browserify",
+    "os": "react-native-os",
+    "path": "path-browserify",
+    "querystring": "querystring-es3",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "dgram": "react-native-udp",
+    "stream": "stream-browserify",
+    "timers": "timers-browserify",
+    "tty": "tty-browserify",
+    "vm": "vm-browserify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-native-tab-navigator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cross2d/react-native-tab-navigator/issues"
+  },
+  "homepage": "https://github.com/cross2d/react-native-tab-navigator#readme"
+}
